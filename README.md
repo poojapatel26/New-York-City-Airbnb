@@ -4,11 +4,11 @@ This is a Data Science project with Visualization and Analyisis on Airbnb data o
 
 ### Table of contents
 
-1. [Installation](https://github.com/poojapatel26/New-York-City-Airbnb-Analysis/blob/master/README.md#project-motivation)
+1. [Installation](https://github.com/poojapatel26/New-York-City-Airbnb-Analysis/blob/master/README.md#installation)
 2. [Project Motivation](https://github.com/poojapatel26/New-York-City-Airbnb-Analysis/blob/master/README.md#project-motivation)
-3. File Description
-4. Results
-5. Licensing, Authors, and Acknowledgements
+3. [File Description](https://github.com/poojapatel26/New-York-City-Airbnb-Analysis/blob/master/README.md#file-description)
+4. [Results](https://github.com/poojapatel26/New-York-City-Airbnb-Analysis/blob/master/README.md#results)
+5. [Licensing, Authors, and Acknowledgements](https://github.com/poojapatel26/New-York-City-Airbnb-Analysis/blob/master/README.md#installation)
 
 
 ## Installation
