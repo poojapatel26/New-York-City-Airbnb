@@ -1,54 +1,35 @@
-# New-York-City-Airbnb-Analysis
+# Airbnb New York City Analysis 
 
 This is a Data Science project with Visualization and Analyisis on Airbnb data of New York City.
 
-## Content
+### Table of contents
 
-This data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+1. Installation
+2. Project Motivation
+3. File Description
+4. Results
+5. Licensing, Authors, and Acknowledgements
 
-## Inspiration
 
-What can we learn about different hosts and areas?
+## Installation
 
-What can we learn from predictions? (ex: locations, prices, reviews, etc)
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-Which hosts are the busiest and why?
+## Project Motivation
+For this project, I was interestested in using Airbnb NYC dataset from 2019 to better understand:
 
-Is there any noticeable difference of traffic among different areas and what could be the reason for it?
+1. What can we learn about different hosts and areas?
 
-## About this File
-The dataset is from Kaggle
+2. What can we learn from predictions? (ex: locations, prices, reviews, etc)
 
-## Columns
-id: listing ID 
+3. Which hosts are the busiest and why?
 
-name: name of the listing
 
-host_id: host ID
+## File Descriptions
+There are 2 notebooks available here, one notebook gives answered to the all the above questions and second notebook is to predict the house or room price. 
 
-host_name: name of the host
+## Results
+The main findings of the code can be found at the post available [here.](https://medium.com/@poojapatel26/analysis-of-airbnb-data-nyc-2019-eecc84d9852a) 
 
-neighbourhood_group: location
-
-neighbourhood: area
-
-latitude: latitude coordinates
-
-longitude: longitude coordinates
-
-room_type: listing space type
-
-price: price in dollars
-
-minimum_nights: amount of nights minimum
-
-number_of_reviews: number of reviews
-
-last_review: latest review
-
-reviews_per_month: number of reviews per month
-
-calculated_host_listings_count: amount of listing per host
-
-availability_365: number of days when listing is available for booking
-
+## Licensing, Authors, Acknowledgements
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here.](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) Otherwise, feel free to use the code here as you would like!
