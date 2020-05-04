@@ -1,14 +1,14 @@
-# Airbnb New York City Analysis 
+# New York City Airbnb Analysis 
 
 This is a Data Science project with Visualization and Analyisis on Airbnb data of New York City.
 
 ### Table of contents
 
-1. Installation
-2. Project Motivation
-3. File Description
-4. Results
-5. Licensing, Authors, and Acknowledgements
+1. [Installation](Installation)
+2. [Project Motivation](Project Motivation)
+3. [File Description]
+4. [Results]
+5. [Licensing, Authors, and Acknowledgements]
 
 
 ## Installation
@@ -26,7 +26,7 @@ For this project, I was interestested in using Airbnb NYC dataset from 2019 to b
 
 
 ## File Descriptions
-There are 2 notebooks available here, one notebook gives answered to the all the above questions and second notebook is to predict the house or room price. 
+There are 2 notebooks available here, one notebook gives answers to all the above questions and the second notebook is to predict the house or room price.
 
 ## Results
 The main findings of the code can be found at the post available [here.](https://medium.com/@poojapatel26/analysis-of-airbnb-data-nyc-2019-eecc84d9852a) 
