@@ -22,7 +22,7 @@ For this project, I was interestested in using Airbnb NYC dataset from 2019 to b
 
 1. What can we learn about different hosts and areas?
 
-2. What can we learn from predictions? (ex: locations, prices, reviews, etc)
+2. What can we learn from predictions? (ex: locations, prices, reviews, etc.)
 
 3. Which hosts are the busiest and why?
 
